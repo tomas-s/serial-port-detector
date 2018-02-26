@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Matra server conf:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Matra_server_conf_jar</output-path>
+    <root id="archive" name="Matra server conf.jar">
+      <element id="module-output" name="Matra server conf" />
+    </root>
+  </artifact>
+</component>
